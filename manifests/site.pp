@@ -6,4 +6,5 @@ node default {
   }
   file {'/root/README':
     owmer   => 'root',
+  }
 }
