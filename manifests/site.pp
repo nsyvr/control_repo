@@ -4,7 +4,4 @@ node default {
     content => 'this is a test read me from puppet',
     owner   => 'root',
   }
-  file {'/root/README':
-    owmer   => 'root',
-  }
 }
